@@ -1,6 +1,11 @@
 # Aplikasi-Login
 Latihan Aplikasi-Login
 
+*Sebelum melakukan login harus telah mendaftar akun*
+
+*Jika sudah memiliki akun baru bisa melakukan login*
+
+*Jika belum memiliki akun dapat melakukan register terlebih dahulu*
 
 *Ketika akan login perlu memasukan email dan password terlebih dahulu*
 
